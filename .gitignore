@@ -120,7 +120,7 @@ dmypy.json
 .pyre/
 
 ### Python Patch ###
-.venv/
+.restwebvenv/
 
 ### Vagrant ###
 # General
